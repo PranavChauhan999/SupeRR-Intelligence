@@ -1,0 +1,28 @@
+SUPERR SELECTOR | ROUND 1
+Unstop player selection order
+Frozen analysis 0631d158d463
+
+BATTING
+ 1. Shashank Singh
+ 2. Reeza Hendricks
+ 3. Glenn Maxwell
+ 4. Naman Dhir
+ 5. Nicholas Pooran
+ 6. Namboori Tilak Varma
+ 7. Ryan Rickelton
+ 8. Marcus Stoinis
+ 9. Sanju Samson
+10. Phil Salt
+
+BOWLING
+ 1. Abrar Ahmed
+ 2. Sufiyan Muqeem
+ 3. Sunil Narine
+ 4. Shaheen Afridi
+ 5. Jasprit Bumrah
+ 6. Rashid Khan
+ 7. Haris Rauf
+ 8. Mohammad Nawaz
+ 9. Kuldeep Yadav
+10. Mitchell Santner
+

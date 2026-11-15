@@ -1,0 +1,1 @@
+{"name":"superr-intelligence","version":"2.1.0","private":true,"type":"module","scripts":{"dev":"node server.mjs","build":"node build.mjs","test":"node --test test_api.mjs"},"engines":{"node":">=20"}}
